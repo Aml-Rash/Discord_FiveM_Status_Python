@@ -13,4 +13,4 @@ Instructions:
 - Enter your fivem server's cfx url for direct connect
 
 Note:
-- The server_status_data boolean value can be either false or true, false for it to be deactivated and true for it to be activated, then below it you will enter the server channel where you want the bot to display the status of the fivem server.
+- The server_status_data boolean value can be either false or true, false for it to be deactivated and true for it to be activated, then below it you will enter the server channel where you want the bot to display the status of the fivem server. All of the mentioned above can be found in the config.json file generated once you run the script.
